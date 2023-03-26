@@ -1,0 +1,3 @@
+Spoon	Silver-Gold	5.65
+Fork	Plastik	0.5
+Plate	Dragon Lore	10

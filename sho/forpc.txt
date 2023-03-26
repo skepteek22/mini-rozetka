@@ -1,0 +1,3 @@
+Keyboard	Logitech G66	125
+Mouse	SteelSeries	100.34
+Keyboard	Razer Blackwidow	200

@@ -1,0 +1,3 @@
+chair	Victorian	105.35
+bed	Sun and lightning	200
+table	Red Wood	8.99
